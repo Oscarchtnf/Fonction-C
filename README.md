@@ -1,6 +1,6 @@
 # Fonction en C
 
-Dans cette dernière sequence nous avons vus les programme en language C ainsi que les fonctions.
+Dans cette dernière sequence nous avons vus les programmes en language C ainsi que les fonctions.
 ## Voici le _SOMMAIRE_ du répéretoire
 
 ### *Mes fihiers :*  
