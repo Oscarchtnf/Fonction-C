@@ -5,4 +5,4 @@ Dans cette dernière sequence nous avons vus les programmes en language C ainsi 
 
 ### *Mes fihiers :*  
 `* Déscription`  
-Ces différents fichiers rassemblent différentes fonctions de bases en language C ce qui ma permis de m'entrainer
+Ces différents fichiers rassemblent différentes fonctions de bases en language C ce qui ma permis de m'entrainer ,sur les fonctions
